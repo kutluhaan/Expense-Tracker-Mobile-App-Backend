@@ -1,5 +1,5 @@
 💰 Expense Tracker Mobile App Backend
-📝 What's This All About?
+📝 What is This All About?
 Welcome to the backend for a mobile app that helps you keep track of your money! This project is the brain behind a mobile expense tracker, built with Java and Spring Boot. It handles all the important stuff like managing user accounts, and tracking both personal and group expenses. Whether you're splitting a dinner bill with friends or just keeping an eye on your own spending, this backend has you covered!
 
 🚀 What Can It Do?
